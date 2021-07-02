@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <project name="Slowhy/android_device_lge_joan" path="device/lge/joan" remote="github" revision="pe-11" />
+ <project name="Slowhy/android_kernel_lge_msm8998" path="kernel/lge/msm8998" remote="github" revision="pe-11" />
+ <project name="Slowhy/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="pe-11" />
+ <project name="SupremMotu/android_device_lge_common" path="device/lge/common" remote="github" revision="eleven"/>
+ <project name="SGCMarkus/android_hardware_lge" path="hardware/lge" remote="github" revision="lineage-18.0"/>
+ <project name="AOSP-11/vendor_apps_GoogleCamera" path="vendor/apps/GoogleCamera" remote="github" revision="11"/>
+</manifest> 
